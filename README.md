@@ -1,2 +1,15 @@
-# trust-code
-Trust Code company 
+# Hi there 👋
+
+I'm Mohammadreza, a Full Stack Web Developer and founder of Trust Code.
+
+🚀 Building modern, responsive and SEO-friendly websites.
+
+🌐 Website: https://trust-code.ir
+
+## Services
+- Web Design
+- Full Stack Development
+- SEO Optimization
+- Performance Improvement
+
+📫 Contact: info@trust-code.ir

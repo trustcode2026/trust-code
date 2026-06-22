@@ -12,4 +12,4 @@ I'm Mohammadreza, a Full Stack Web Developer and founder of Trust Code.
 - SEO Optimization
 - Performance Improvement
 
-📫 Contact: info@trust-code.ir
+📫 Contact: hapylife2023@gmail.com
